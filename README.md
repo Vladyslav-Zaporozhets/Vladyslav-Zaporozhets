@@ -2,7 +2,7 @@
 
 ### 🚀 Bridging Business and IT | E-Commerce Manager & Fullstack Web Developer
 
-I combine **9 years of entrepreneurial experience** in international trade and e-commerce with modern web technologies. Having built and managed an online platform from the ground up, I don't just write code — I understand business metrics, conversion rates, CMS, and what makes a digital product successful.
+I combine **9 years of entrepreneurial experience** in international trade and e-commerce with modern web technologies. Having built and managed an online platform from the ground up, I don't just write code — I understand business metrics, conversion rates, and user needs.
 
 Now, I am expanding my technical expertise to build scalable, user-centric web applications and looking for a **Praktikum / Ausbildung** (Fachinformatiker / E-Commerce) in Germany.
 
@@ -12,21 +12,21 @@ Now, I am expanding my technical expertise to build scalable, user-centric web a
 
 **Web Development:**
 <p align="left"> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
 </p>
 
 **E-Commerce & Digital Marketing:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" />
-  <img src="https://img.shields.io/badge/CMS_Administration-217346?style=flat-square&logo=spreadsheet&logoColor=white" alt="CMS" />
-  <img src="https://img.shields.io/badge/SEO_Optimization-4285F4?style=flat-square&logo=google&logoColor=white" alt="SEO" />
-  <img src="https://img.shields.io/badge/B2B_%2F_B2C_Sales-00A1E0?style=flat-square&logo=salesforce&logoColor=white" alt="Sales" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/CMS_Administration-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="CMS" />
+  <img src="https://img.shields.io/badge/SEO_Strategy-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/B2B_%2F_B2C_Sales-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Sales" />
 </p>
 
 ---
@@ -34,26 +34,29 @@ Now, I am expanding my technical expertise to build scalable, user-centric web a
 ### 🏆 Featured Projects & Experience
 
 * 🚜 **[Agristore.com.ua](https://agristore.com.ua)** | *Founder & E-Commerce Manager (2014 - 2023)*
-    * Built and managed a B2B/B2C e-commerce platform for agricultural machinery parts.
-    * Responsible for CMS administration, SEO, digital marketing (Google Analytics), and business strategy.
+    * Managed a full-cycle e-commerce platform. Specialized in CMS administration, SEO, and Google Analytics.
 * 🛒 **[Booksy](https://vladyslav-zaporozhets.github.io/project-books-06/)** | *Scrum Master & Frontend Developer*
-    * Collaborative project: dynamic shopping list web app (JS/REST API). Managed team workflow via Agile/Scrum.
+    * Team project (JS/REST API). Led the team as a Scrum Master, ensuring agile delivery of a digital bookstore.
 * 🏠 **[Wohnungssuche](https://vladyslav-zaporozhets.github.io/Wohnungssuche/)** | *Frontend Developer*
-    * Responsive landing page showcasing modern UI/UX and clean HTML/CSS code.
+    * Personal project: modern, fully responsive landing page for real estate search.
+* 🌿 **[EcoTote](https://vladyslav-zaporozhets.github.io/project-group-7/)** | *Frontend Developer*
+    * Collaborative team project: a clean and eco-friendly landing page with advanced CSS/HTML layout.
+
+---
+
+### 🌍 Languages
+- **Ukrainian / Russian:** Native
+- **English:** Upper-Intermediate (Daily communication & documentation)
+- **German:** Learning (Basic/A1-A2, focused on professional integration)
 
 ---
 
 ### 📫 Contact Me
-
-I am currently open to new opportunities (**Praktikum/Ausbildung**) in the Nürnberg region or remote.
-
-* 💼 **LinkedIn:** [vladyslav-zaporozhets](https://www.linkedin.com/in/vladyslav-zaporozhets/)
-* 📧 **Email:** [vladyslav.zaporozhets.de@gmail.com](mailto:vladyslav.zaporozhets.de@gmail.com)
-* 📱 **Phone:** +49 123 456 789 *(заміни на свій справжній)*
+- 💼 **LinkedIn:** [vladyslav-zaporozhets](https://www.linkedin.com/in/vladyslav-zaporozhets/)
+- 📧 **Email:** [vladyslav.zaporozhets.de@gmail.com](mailto:vladyslav.zaporozhets.de@gmail.com)
+- 📱 **Location:** Gößweinstein / Nürnberg Region, Germany 🇩🇪
 
 <br>
-
----
 <p align="center">
-  <i>"I don't just write code; I build solutions that bridge the gap between business goals and technical excellence."</i>
+  <i>"I build web solutions with a business-driven mindset."</i>
 </p>
