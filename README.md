@@ -17,20 +17,11 @@
 
 ### 💻 Tech Stack & Business Expertise
 
-**Frontend Development:**
+**Web Development & Tools:**
 <br>
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-
-**Backend, Build Tools & Design:**
-<br>
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,sass,vite,git,github,figma" alt="Vladyslav's Tech Stack" />
+</p>
 
 **Management, E-Commerce & Agile:**
 <br>
@@ -47,7 +38,7 @@
 | :--- | :--- | :--- |
 | 🚜 **[Agristore.com.ua](https://agristore.com.ua)** | **Founder & E-Commerce Manager** (9 yrs). <br> Managed full-cycle e-commerce platform. Deep hands-on expertise in CMS administration, database management, and SEO strategy. | `E-Commerce` `CMS` `SEO` `B2B/B2C` |
 | 📚 **[Booksy Web App](https://vladyslav-zaporozhets.github.io/project-books-06/)** | **Scrum Master & Frontend Developer**. <br> Led an Agile team of 9 developers. Managed Git-Workflow, Code Reviews, and Pull Requests. | `JS (ES6+)` `Vite` `Axios` `Agile` |
-| 🏊 **[Höhenschwimmbad Gößweinstein](#)** <br> *(Add Link)* | **Frontend Developer (Solo)**. <br> High-performance promo website with dynamic UI logic. Built with a Mobile-First approach. | `Vanilla JS` `DOM` `WebP` |
+| 🏊 **[Höhenschwimmbad Gößweinstein]([ВСТАВ ТУТ ПОСИЛАННЯ])** | **Frontend Developer (Solo)**. <br> High-performance promo website with dynamic UI logic. Built with a Mobile-First approach. | `Vanilla JS` `DOM` `WebP` |
 | 🏠 **[Wohnungssuche App](https://vladyslav-zaporozhets.github.io/Wohnungssuche/)** | **Frontend Developer (Solo)**. <br> Digital application portfolio complete with custom web hosting & DNS setup. | `HTML5` `CSS3` `JavaScript` |
 | 🌿 **[EcoTote Landing Page](https://vladyslav-zaporozhets.github.io/project-group-7/)** | **Frontend Developer (Team)**. <br> Collaborative project using professional Git-Workflow and clean code structure. | `HTML` `SASS / BEM` |
 
@@ -57,14 +48,6 @@
 - 🇩🇪 **German:** B1 (Official Certificate telc/g.a.s.t.) — *Actively learning further*
 - 🇬🇧 **English:** B2 (Upper-Intermediate)
 - 🇺🇦 **Ukrainian / Russian:** Native
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladyslav-zaporozhets&show_icons=true&theme=transparent&hide_border=true&title_color=3498db&icon_color=3498db&text_color=333333" alt="Vladyslav's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav-zaporozhets&layout=compact&theme=transparent&hide_border=true&title_color=3498db&text_color=333333" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
