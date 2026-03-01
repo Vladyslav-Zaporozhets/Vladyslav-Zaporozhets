@@ -17,18 +17,27 @@
 
 ### 💻 Tech Stack & Business Expertise
 
-**Web Development & Tools:**
+**Frontend Development:**
 <br>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,html,css,sass,vite,git,github,figma" alt="Vladyslav's Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,sass" alt="Frontend Tech Stack" />
+</p>
+
+**Backend, Build Tools & Design:**
+<br>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,vite,git,github,figma" alt="Backend and Tools" />
 </p>
 
 **Management, E-Commerce & Agile:**
 <br>
-![Agile](https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO_Strategy-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![B2B Sales](https://img.shields.io/badge/B2B_%2F_B2C_Sales-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Agile_Scrum-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
+  <img src="https://img.shields.io/badge/CMS_Administration-1572B6?style=for-the-badge&logo=wordpress&logoColor=white" alt="CMS" />
+  <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" alt="Google Analytics" />
+  <img src="https://img.shields.io/badge/SEO_Strategy-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="SEO" />
+  <img src="https://img.shields.io/badge/B2B_%2F_B2C_Sales-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="B2B Sales" />
+</p>
 
 ---
 
@@ -45,15 +54,20 @@
 ---
 
 ### 🌍 Languages
-- 🇩🇪 **German:** B1 (Official Certificate telc/g.a.s.t.) — *Actively learning further*
-- 🇬🇧 **English:** B2 (Upper-Intermediate)
-- 🇺🇦 **Ukrainian / Russian:** Native
+
+| Language | Proficiency | Status & Certification |
+| :--- | :--- | :--- |
+| 🇩🇪 **German** | **B1** | Official Certificate telc/g.a.s.t. ✅ *(Actively learning further)* |
+| 🇬🇧 **English** | **B2** | Upper-Intermediate *(IT & Business context)* |
+| 🇺🇦 **Ukrainian / Russian** | **Native** | |
 
 ---
 
 ### 📫 Let's Connect!
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vladyslav-zaporozhets/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:zaporozhets.vld@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.xing.com/profile/Vladyslav_Zaporozhets/"><img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" alt="XING" /></a>
+  <a href="https://github.com/vladyslav-zaporozhets"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
+<br>
