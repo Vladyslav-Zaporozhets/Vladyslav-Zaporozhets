@@ -46,7 +46,7 @@
 | Project / Link | My Role & Key Achievements | Technologies / Stack |
 | :--- | :--- | :--- |
 | 🚜 **[Agristore.com.ua](https://agristore.com.ua)** | **Founder & E-Commerce Manager** (9 yrs). <br> Managed full-cycle e-commerce platform. Deep hands-on expertise in CMS administration, database management, and SEO strategy. | `E-Commerce` `CMS` `SEO` `B2B/B2C` |
-| 🌍 **[Podorozhnyky (Frontend)](https://github.com/vladyslav-zaporozhets/podorozhnyky-client)** | **Frontend Developer**. <br> Led an Agile team of 9. Developed the dynamic Main Page, managed Git-Workflows, Code Reviews. | `Next.js` `React` `TypeScript` `CSS Modules` |
+| 🌍 **[Podorozhnyky (Frontend)](https://github.com/vladyslav-zaporozhets/podorozhnyky-client)** | **Frontend Developer**. <br> Developed the dynamic Main Page, managed Git-Workflows, Code Reviews. | `Next.js` `React` `TypeScript` `CSS Modules` |
 | 📚 **[Booksy Web App](https://github.com/Vladyslav-Zaporozhets/booksy)** | **Scrum Master & Frontend Developer**. <br> Managed Git-Workflow, Code Reviews, and Pull Requests. | `JS (ES6+)` `Vite` `Axios` `Agile` |
 | 🏊 **[Höhenschwimmbad Gößweinstein](https://github.com/Vladyslav-Zaporozhets/h-henschwimmbad-g-weinstein)** | **Frontend Developer (Solo)**. <br> High-performance promo website with dynamic UI logic. Built with a Mobile-First approach. | `Vanilla JS` `DOM` `WebP` |
 | 🏠 **[Wohnungssuche App](https://github.com/Vladyslav-Zaporozhets/wohnungssuche)** | **Frontend Developer (Solo)**. <br> Digital application portfolio complete with custom web hosting & DNS setup. | `HTML5` `CSS3` `JavaScript` |
