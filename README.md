@@ -1,9 +1,12 @@
-<h1 align="center">Hi there, I'm Vladyslav Zaporozhets 👋</h1>
+<!-- Динамічний банер-хвиля -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Vladyslav%20Zaporozhets&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=E-Commerce%20Professional%20%26%20Web%20Developer&descAlignY=58&descSize=20" alt="Header Banner" />
+</div>
 
-<!-- Динамічний анімований текст -->
+<!-- Анімований рядок з фокусом на дії -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=0077B5&center=true&vCenter=true&width=600&lines=E-Commerce+Professional;Fullstack+Web+Developer;Agrar-Tech+Entrepreneur;Digitalisierungs-Experte" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=0077B5&center=true&vCenter=true&width=800&lines=Building+E-Commerce+Solutions...;Writing+Clean+%26+Scalable+Code...;Automating+Business+Processes...;Driving+Digital+Transformation..." alt="Typing SVG" />
   </a>
 </p>
 
@@ -48,15 +51,6 @@
 
 ---
 
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vladyslav-zaporozhets&show_icons=true&theme=tokyonight&hide_border=true" alt="Vladyslav's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav-zaporozhets&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 🚀 Featured Projects & Experience
 
 | Project / Link | My Role & Key Achievements | Technologies / Stack |
@@ -67,6 +61,16 @@
 | 🏊 **[Höhenschwimmbad Gößweinstein](https://github.com/Vladyslav-Zaporozhets/h-henschwimmbad-g-weinstein)** | **Frontend Developer (Solo)**. <br> High-performance promo website with dynamic UI logic. Built with a Mobile-First approach. | `Vanilla JS` `DOM` `WebP` |
 | 🏠 **[Wohnungssuche App](https://github.com/Vladyslav-Zaporozhets/wohnungssuche)** | **Frontend Developer (Solo)**. <br> Digital application portfolio complete with custom web hosting & DNS setup. | `HTML5` `CSS3` `JavaScript` |
 | 🌿 **[EcoTote Landing Page](https://github.com/Vladyslav-Zaporozhets/ecotote-g5)** | **Frontend Developer (Team)**. <br> Collaborative project using professional Git-Workflow and clean code structure. | `HTML` `SASS / BEM` |
+
+---
+
+### 🌍 Languages
+
+| Language | Proficiency | Status & Certification |
+| :--- | :--- | :--- |
+| 🇩🇪 **German** | **B1/B2** | Official Certificate telc/g.a.s.t. ✅ *(Actively learning further)* |
+| 🇬🇧 **English** | **B2** | Upper-Intermediate *(IT & Business context)* |
+| 🇺🇦 **Ukrainian / Russian** | **Native** | |
 
 ---
 
