@@ -1,11 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=Vladyslav%20Zaporozhets&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=E-Commerce%20Professional%20%7C%20Web%20Developer&descAlignY=58&descSize=20" alt="Header Banner" />
-</div>
+<h1 align="center">⚡ Vladyslav Zaporozhets ⚡</h1>
 
 <!-- Анімований рядок з фокусом на дії -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1500&color=0077B5&center=true&vCenter=true&width=800&lines=Building+E-Commerce+Solutions...;Writing+Clean+%26+Scalable+Code...;Automating+Business+Processes...;Driving+Digital+Transformation..." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=0077B5&center=true&vCenter=true&width=700&lines=Building+E-Commerce+Solutions...;Writing+Clean+%26+Scalable+Code...;Automating+Business+Processes...;Driving+Digital+Transformation..." alt="Typing SVG" />
   </a>
 </p>
 
