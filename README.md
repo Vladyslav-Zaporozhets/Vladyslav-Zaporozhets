@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Vladyslav%20Zaporozhets&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=E-Commerce%20Professional%20%7C%20Web%20Developer&descAlignY=58&descSize=20" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b1120&height=250&section=header&text=Vladyslav%20Zaporozhets&fontSize=50&fontColor=38bdf8&fontAlignY=38&desc=E-Commerce%20Professional%20%7C%20Web%20Developer&descAlignY=58&descSize=20&animation=twinkling" alt="Header Banner" />
 </div>
 
 <!-- Анімований рядок з фокусом на дії -->
