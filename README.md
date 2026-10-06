@@ -1,4 +1,6 @@
-<h1 align="center">⚡ Vladyslav Zaporozhets ⚡</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Vladyslav%20Zaporozhets&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=E-Commerce%20Professional%20%7C%20Web%20Developer&descAlignY=58&descSize=20&animation=twinkling" alt="Header Banner" />
+</div>
 
 <!-- Анімований рядок з фокусом на дії -->
 <p align="center">
