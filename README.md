@@ -1,5 +1,11 @@
 <h1 align="center">Hi there, I'm Vladyslav Zaporozhets 👋</h1>
-<h3 align="center">E-Commerce Professional 🔄 Web Developer</h3>
+
+<!-- Динамічний анімований текст -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1500&color=0077B5&center=true&vCenter=true&width=600&lines=E-Commerce+Professional;Fullstack+Web+Developer;Agrar-Tech+Entrepreneur;Digitalisierungs-Experte" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <i>Bridging 9 years of business logic with modern web technologies. I don't just write code — I build digital products that solve real business problems, optimize conversions, and automate daily operations.</i>
@@ -9,7 +15,7 @@
 
 ### 🎯 Current Status & Focus
 - 💼 **Currently:** Kaufmann im E-Commerce (Umschulung) @ **Lamm GmbH**. 
-- 🚀 **Mission:** Integrating 9 years of entrepreneurial E-Commerce & Agrar-Tech experience into the German market, leveraging technical web skills to drive sales and digital transformation.
+- 🚀 **Mission:** Integrating 9 years of entrepreneurial E-Commerce experience into the German market, leveraging technical web skills to drive sales and digital transformation.
 - 🎓 **Background:** Founder of Agristore.com.ua (9 yrs) & Fullstack Web Developer Bootcamp Graduate (GoIT).
 - 📍 **Location:** Gößweinstein / Buttenheim (Bayern).
 - 📄 **Work Permit:** §24 AufenthG (Full and unrestricted work permit in Germany ✅).
@@ -42,6 +48,15 @@
 
 ---
 
+### 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vladyslav-zaporozhets&show_icons=true&theme=tokyonight&hide_border=true" alt="Vladyslav's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vladyslav-zaporozhets&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
+
+---
+
 ### 🚀 Featured Projects & Experience
 
 | Project / Link | My Role & Key Achievements | Technologies / Stack |
@@ -52,16 +67,6 @@
 | 🏊 **[Höhenschwimmbad Gößweinstein](https://github.com/Vladyslav-Zaporozhets/h-henschwimmbad-g-weinstein)** | **Frontend Developer (Solo)**. <br> High-performance promo website with dynamic UI logic. Built with a Mobile-First approach. | `Vanilla JS` `DOM` `WebP` |
 | 🏠 **[Wohnungssuche App](https://github.com/Vladyslav-Zaporozhets/wohnungssuche)** | **Frontend Developer (Solo)**. <br> Digital application portfolio complete with custom web hosting & DNS setup. | `HTML5` `CSS3` `JavaScript` |
 | 🌿 **[EcoTote Landing Page](https://github.com/Vladyslav-Zaporozhets/ecotote-g5)** | **Frontend Developer (Team)**. <br> Collaborative project using professional Git-Workflow and clean code structure. | `HTML` `SASS / BEM` |
-
----
-
-### 🌍 Languages
-
-| Language | Proficiency | Status & Certification |
-| :--- | :--- | :--- |
-| 🇩🇪 **German** | **B1/B2** | Official Certificate telc/g.a.s.t. ✅ *(Actively learning further)* |
-| 🇬🇧 **English** | **B2** | Upper-Intermediate *(IT & Business context)* |
-| 🇺🇦 **Ukrainian / Russian** | **Native** | |
 
 ---
 
